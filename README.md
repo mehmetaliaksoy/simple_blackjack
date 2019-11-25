@@ -1,2 +1,2 @@
 # simple_blackjack
-A Simple Blackjack implementation with C++
+A Simple Blackjack implementation in C++
